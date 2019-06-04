@@ -1,0 +1,14 @@
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiTest\bin\Debug\netcoreapp2.2\TimeFlyApiTest.deps.json
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiTest\bin\Debug\netcoreapp2.2\TimeFlyApiTest.runtimeconfig.json
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiTest\bin\Debug\netcoreapp2.2\TimeFlyApiTest.runtimeconfig.dev.json
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiTest\bin\Debug\netcoreapp2.2\TimeFlyApiTest.dll
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiTest\bin\Debug\netcoreapp2.2\TimeFlyApiTest.pdb
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiTest\obj\Debug\netcoreapp2.2\TimeFlyApiTest.csprojAssemblyReference.cache
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiTest\obj\Debug\netcoreapp2.2\TimeFlyApiTest.csproj.CoreCompileInputs.cache
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiTest\obj\Debug\netcoreapp2.2\TimeFlyApiTest.AssemblyInfoInputs.cache
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiTest\obj\Debug\netcoreapp2.2\TimeFlyApiTest.AssemblyInfo.cs
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiTest\obj\Debug\netcoreapp2.2\TimeFlyApiTest.dll
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiTest\obj\Debug\netcoreapp2.2\TimeFlyApiTest.pdb

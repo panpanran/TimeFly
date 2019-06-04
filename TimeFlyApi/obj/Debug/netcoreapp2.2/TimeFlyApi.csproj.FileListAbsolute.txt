@@ -1,0 +1,17 @@
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApi\bin\Debug\netcoreapp2.2\TimeFlyApi.deps.json
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApi\bin\Debug\netcoreapp2.2\TimeFlyApi.runtimeconfig.json
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApi\bin\Debug\netcoreapp2.2\TimeFlyApi.runtimeconfig.dev.json
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApi\bin\Debug\netcoreapp2.2\TimeFlyApi.dll
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApi\bin\Debug\netcoreapp2.2\TimeFlyApi.pdb
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApi\obj\Debug\netcoreapp2.2\TimeFlyApi.csproj.CoreCompileInputs.cache
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApi\obj\Debug\netcoreapp2.2\TimeFlyApi.RazorAssemblyInfo.cache
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApi\obj\Debug\netcoreapp2.2\TimeFlyApi.RazorAssemblyInfo.cs
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApi\obj\Debug\netcoreapp2.2\TimeFlyApi.AssemblyInfoInputs.cache
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApi\obj\Debug\netcoreapp2.2\TimeFlyApi.AssemblyInfo.cs
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApi\obj\Debug\netcoreapp2.2\TimeFlyApi.RazorTargetAssemblyInfo.cache
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApi\obj\Debug\netcoreapp2.2\TimeFlyApi.dll
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApi\obj\Debug\netcoreapp2.2\TimeFlyApi.pdb
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApi\obj\Debug\netcoreapp2.2\TimeFlyApi.csprojAssemblyReference.cache
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApi\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApi\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApi\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
