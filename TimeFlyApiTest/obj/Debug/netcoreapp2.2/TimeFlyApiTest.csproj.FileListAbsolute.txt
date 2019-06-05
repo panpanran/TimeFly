@@ -6,7 +6,6 @@ C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiTest\bin\
 C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiTest\bin\Debug\netcoreapp2.2\TimeFlyApiTest.runtimeconfig.dev.json
 C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiTest\bin\Debug\netcoreapp2.2\TimeFlyApiTest.dll
 C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiTest\bin\Debug\netcoreapp2.2\TimeFlyApiTest.pdb
-C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiTest\obj\Debug\netcoreapp2.2\TimeFlyApiTest.csprojAssemblyReference.cache
 C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiTest\obj\Debug\netcoreapp2.2\TimeFlyApiTest.csproj.CoreCompileInputs.cache
 C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiTest\obj\Debug\netcoreapp2.2\TimeFlyApiTest.AssemblyInfoInputs.cache
 C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiTest\obj\Debug\netcoreapp2.2\TimeFlyApiTest.AssemblyInfo.cs
