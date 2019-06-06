@@ -1,0 +1,85 @@
+6/5/2019 8:29:29 PM	This log contains information about the import schema operation into project 'TimeFlyApiDB' on computer 'LAPTOP-CQQOLGSD' by user 'rp3yf'.
+6/5/2019 8:29:30 PM	Import of database schema has started.
+6/5/2019 8:29:39 PM	Gathering database credentials
+6/5/2019 8:29:39 PM	Gathering database options
+6/5/2019 8:29:39 PM	Gathering users
+6/5/2019 8:29:39 PM	Gathering roles
+6/5/2019 8:29:39 PM	Gathering application roles
+6/5/2019 8:29:39 PM	Gathering role memberships
+6/5/2019 8:29:39 PM	Gathering filegroups
+6/5/2019 8:29:39 PM	Gathering full-text catalogs
+6/5/2019 8:29:39 PM	Gathering assemblies
+6/5/2019 8:29:39 PM	Gathering certificates
+6/5/2019 8:29:39 PM	Gathering asymmetric keys
+6/5/2019 8:29:39 PM	Gathering symmetric keys
+6/5/2019 8:29:39 PM	Gathering encrypted symmetric keys
+6/5/2019 8:29:39 PM	Gathering schemas
+6/5/2019 8:29:39 PM	Gathering XML schema collections
+6/5/2019 8:29:39 PM	Gathering user-defined data types
+6/5/2019 8:29:39 PM	Gathering user-defined types
+6/5/2019 8:29:39 PM	Gathering table types
+6/5/2019 8:29:39 PM	Gathering unique keys for table types
+6/5/2019 8:29:39 PM	Gathering primary keys for table types
+6/5/2019 8:29:39 PM	Gathering indexes for table types
+6/5/2019 8:29:39 PM	Gathering check constraints for table types
+6/5/2019 8:29:39 PM	Gathering default constraints for table types
+6/5/2019 8:29:39 PM	Gathering partition functions
+6/5/2019 8:29:39 PM	Gathering partition schemes
+6/5/2019 8:29:39 PM	Gathering functions
+6/5/2019 8:29:39 PM	Gathering encrypted functions
+6/5/2019 8:29:39 PM	Gathering aggregates
+6/5/2019 8:29:39 PM	Gathering procedures
+6/5/2019 8:29:39 PM	Gathering encrypted procedures
+6/5/2019 8:29:39 PM	Gathering tables
+6/5/2019 8:29:39 PM	Gathering primary keys
+6/5/2019 8:29:39 PM	Gathering unique constraints
+6/5/2019 8:29:39 PM	Gathering foreign keys
+6/5/2019 8:29:39 PM	Gathering default constraints
+6/5/2019 8:29:39 PM	Gathering check constraints
+6/5/2019 8:29:39 PM	Gathering views
+6/5/2019 8:29:39 PM	Gathering encrypted views
+6/5/2019 8:29:39 PM	Gathering indexes
+6/5/2019 8:29:39 PM	Gathering statistics
+6/5/2019 8:29:39 PM	Gathering full-text index stoplists
+6/5/2019 8:29:39 PM	Gathering search property lists
+6/5/2019 8:29:39 PM	Gathering search properties
+6/5/2019 8:29:39 PM	Gathering full-text indexes
+6/5/2019 8:29:39 PM	Gathering column store indexes
+6/5/2019 8:29:47 PM	Gathering spatial indexes
+6/5/2019 8:29:47 PM	Gathering XML indexes
+6/5/2019 8:29:47 PM	Gathering Selective XML indexes
+6/5/2019 8:29:47 PM	Gathering encrypted triggers
+6/5/2019 8:29:47 PM	Gathering triggers
+6/5/2019 8:29:47 PM	Gathering encrypted and clr ddl triggers
+6/5/2019 8:29:47 PM	Gathering ddl triggers
+6/5/2019 8:29:47 PM	Gathering synonyms
+6/5/2019 8:29:47 PM	Gathering defaults
+6/5/2019 8:29:47 PM	Gathering data constraint uddt bindings
+6/5/2019 8:29:47 PM	Gathering rules
+6/5/2019 8:29:47 PM	Gathering data constraint uddt bindings
+6/5/2019 8:29:47 PM	Gathering message types
+6/5/2019 8:29:47 PM	Gathering queues
+6/5/2019 8:29:47 PM	Gathering contracts
+6/5/2019 8:29:47 PM	Gathering services
+6/5/2019 8:29:47 PM	Gathering event notifications
+6/5/2019 8:29:47 PM	Gathering remote service bindings
+6/5/2019 8:29:47 PM	Gathering broker priorities
+6/5/2019 8:29:47 PM	Gathering signatures
+6/5/2019 8:29:47 PM	Gathering data compression options
+6/5/2019 8:29:47 PM	Gathering sequence types
+6/5/2019 8:29:47 PM	Gathering security policies
+6/5/2019 8:29:47 PM	Gather column encryption keys
+6/5/2019 8:29:47 PM	Gathering column master keys
+6/5/2019 8:29:47 PM	Gathering external data sources
+6/5/2019 8:29:47 PM	Gathering external file formats
+6/5/2019 8:29:47 PM	Gathering external tables
+6/5/2019 8:29:47 PM	Gathering database permissions
+6/5/2019 8:29:47 PM	Gathering extended properties
+6/5/2019 8:29:48 PM	Gathering credentials
+6/5/2019 8:29:48 PM	Gathering logins
+6/5/2019 8:29:48 PM	Gathering server audits
+6/5/2019 8:29:50 PM	Scanning project for duplicate elements
+6/5/2019 8:29:51 PM	Finished duplicate element processing
+6/5/2019 8:29:51 PM	Finished importing database.
+6/5/2019 8:29:51 PM	A summary of the import was saved to the following location: C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiDB\Import Schema Logs\TimeFlyApiDB_20190606122929.log
+6/5/2019 8:29:51 PM	Click Finish to continue...

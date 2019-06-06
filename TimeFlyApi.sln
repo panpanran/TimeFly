@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeFlyApi", "TimeFlyApi\Ti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeFlyApiTest", "TimeFlyApiTest\TimeFlyApiTest.csproj", "{CE0EE3D7-C173-48B3-BCEE-93C86F433002}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "TimeFlyApiDB", "TimeFlyApiDB\TimeFlyApiDB.sqlproj", "{FD4E2CFB-C9FC-4BE8-9485-9E0701B4D501}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,12 @@ Global
 		{CE0EE3D7-C173-48B3-BCEE-93C86F433002}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE0EE3D7-C173-48B3-BCEE-93C86F433002}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE0EE3D7-C173-48B3-BCEE-93C86F433002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD4E2CFB-C9FC-4BE8-9485-9E0701B4D501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4E2CFB-C9FC-4BE8-9485-9E0701B4D501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4E2CFB-C9FC-4BE8-9485-9E0701B4D501}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FD4E2CFB-C9FC-4BE8-9485-9E0701B4D501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4E2CFB-C9FC-4BE8-9485-9E0701B4D501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD4E2CFB-C9FC-4BE8-9485-9E0701B4D501}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

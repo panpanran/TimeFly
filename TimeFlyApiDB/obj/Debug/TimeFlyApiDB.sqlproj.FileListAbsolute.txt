@@ -1,0 +1,6 @@
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiDB\bin\Debug\TimeFlyApiDB.dacpac
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiDB\bin\Debug\TimeFlyApiDB.dll
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiDB\bin\Debug\TimeFlyApiDB.pdb
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiDB\obj\Debug\TimeFlyApiDB.sqlprojAssemblyReference.cache
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiDB\obj\Debug\TimeFlyApiDB.dll
+C:\Users\rp3yf\Downloads\MyProgram\CSharp\TimeFly\TimeFlyApi\TimeFlyApiDB\obj\Debug\TimeFlyApiDB.pdb
